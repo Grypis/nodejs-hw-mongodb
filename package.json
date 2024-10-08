@@ -7,7 +7,7 @@
   "scripts": {
     "lint": "eslint src/**/*.js",
     "start": "node ./src/index.js",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon ./src/index.js"
   },
   "keywords": [],
   "author": "Grypis Necros <grypisnecros@gmail.com>",
