@@ -197,7 +197,6 @@
                   "name",
                   "phoneNumber",
                   "email",
-                  "isFavourite",
                   "contactType"
                 ],
                 "properties": {
@@ -917,7 +916,6 @@
           "name",
           "phoneNumber",
           "email",
-          "isFavourite",
           "contactType"
         ],
         "properties": {
